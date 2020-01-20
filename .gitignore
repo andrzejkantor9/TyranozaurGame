@@ -77,3 +77,7 @@ TyranozaurGame/Intermediate/Config/
 TyranozaurGame/Saved/EditorCooked/
 TyranozaurGame/Saved/Config/
 TyranozaurGame/Saved/Autosaves/
+TyranozaurGame/Saved/*
+TyranozaurGame/Intermediate/*
+
+
